@@ -1,0 +1,42 @@
+.TeamInfo {
+  padding-top: 20px; }
+  .TeamInfo h2 {
+    font-size: 40px;
+    margin: 0 0 20px 0; }
+    .TeamInfo h2 a {
+      text-decoration: none;
+      color: #0000fe; }
+  .TeamInfo img {
+    height: 100px; }
+
+.react-tabs ul {
+  margin: 0 0 30px 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around; }
+  .react-tabs ul li {
+    outline: none;
+    border: 1px;
+    background-color: lightskyblue;
+    padding: 20px 70px;
+    border-radius: 10px;
+    font-size: 20px;
+    list-style: none; }
+    .react-tabs ul li--selected {
+      background: #fff;
+      color: black;
+      border-radius: 5px 5px 0 0; }
+    .react-tabs ul li:focus {
+      box-shadow: 0 0 5px #fe1038;
+      border-color: #fe1048;
+      outline: none; }
+.react-tabs .active {
+  background-color: grey; }
+.react-tabs .teamName {
+  width: 250px; }
+.react-tabs .score {
+  width: 40px;
+  display: block;
+  margin: 0 20px; }
+
+/*# sourceMappingURL=TeamInfoPageStyle.css.map */

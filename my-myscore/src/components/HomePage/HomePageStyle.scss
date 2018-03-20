@@ -1,0 +1,20 @@
+.homePage {
+  ul {
+    margin: 0;
+    padding: 0;
+    li {
+      margin: 0 0 10px 0;
+      list-style: none;
+      display: flex;
+      justify-content: center;
+      a {
+        text-decoration: none;
+        color: #0000fe;
+        font-size: 30px;
+        &:hover {
+          color: red;
+        }
+      }
+    }
+  }
+}

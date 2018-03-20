@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,OAAE;EACA,SAAS,EAAE,IAAI;AAEjB,QAAG;EACD,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;AAEb,MAAC;EACC,eAAe,EAAE,IAAI;EACrB,KAAK,EAAE,OAAO",
+"sources": ["LeaguePageStyle.scss"],
+"names": [],
+"file": "LeaguePageStyle.css"
+}

@@ -1,0 +1,16 @@
+.homePage ul {
+  margin: 0;
+  padding: 0; }
+  .homePage ul li {
+    margin: 0 0 10px 0;
+    list-style: none;
+    display: flex;
+    justify-content: center; }
+    .homePage ul li a {
+      text-decoration: none;
+      color: #0000fe;
+      font-size: 30px; }
+      .homePage ul li a:hover {
+        color: red; }
+
+/*# sourceMappingURL=HomePageStyle.css.map */

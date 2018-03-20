@@ -1,0 +1,33 @@
+body{
+  //background: #2fff3a;
+  width: 100%;
+  margin: 0 auto;
+}
+
+header{
+  background-color: #1d90f3;
+  text-align: center;
+  h1{
+
+    font-size: 52px;
+    margin: 0;
+    padding: 20px 0;
+    a{
+      text-decoration: none;
+      color: #0000fe;
+    }
+  }
+  p{
+    font-size: 30px;
+    margin: 0;
+    padding: 20px;
+  }
+}
+main {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+
+}
+
+
